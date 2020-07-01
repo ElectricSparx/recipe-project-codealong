@@ -14,7 +14,7 @@
 /************************************************************
 *************************************************************/
 
-//code to close dropdown by clicking anywhere
+//code to close dropdown by clicking anywhere rather than just on the arrow
 import {Directive, ElementRef, HostBinding, HostListener} from '@angular/core';
      
 @Directive({
